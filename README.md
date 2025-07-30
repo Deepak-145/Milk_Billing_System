@@ -157,35 +157,6 @@ Click **"🗑️ Delete All Entries"**
 * Shows a warning confirmation
 * Deletes all records from `milk_entries`
 
----
-
-## 📷 Screenshot Example
-
-> Upload a screenshot named `bill-preview.png` in the `screenshots/` folder
-
-```markdown
-![Bill Preview](screenshots/bill-preview.png)
-```
-
----
-
-## 💡 Future Improvements
-
-* Monthly bill summary view
-* Admin login system
-* Cow/Buffalo milk type tracking
-* SMS integration for billing notifications
-
----
-
 ## 👨‍💻 Developer
 
 **Deepak Varshney**
-*Developer of Chauhan Milk Billing System*
-[GitHub Profile](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE)
