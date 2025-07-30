@@ -13,7 +13,7 @@
       <!-- Contact -->
       <div class="col-md-4 mb-4">
         <h5 class="fw-bold">Contact</h5>
-        <p class="mb-1 small">📞 8445271087</p>
+        <p class="mb-1 small">📞 9999999999</p>
         <p class="mb-1 small">✉️ chauhandairy@gmail.com</p>
       </div>
 
